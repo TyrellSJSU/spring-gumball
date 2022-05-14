@@ -1,3 +1,31 @@
+Screenshots (in Markdown README.md) for CI Workflow (Part 1)
+
+
+
+Screenshots (in Markdown README.md) for CD Workflow (Part 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # spring-gumball ci/cd example
 
 ### This example demonstrates the following two GitHub Workflows.
