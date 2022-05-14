@@ -1,6 +1,8 @@
 Screenshots (in Markdown README.md) for CI Workflow (Part 1)
 
+![image](https://user-images.githubusercontent.com/82182536/168405093-d294d8e1-b0d4-4d1f-9e84-96b6e6f85b61.png)
 
+![image](https://user-images.githubusercontent.com/82182536/168405071-9115c394-33bc-4311-8e2d-47e683eac094.png)
 
 Screenshots (in Markdown README.md) for CD Workflow (Part 2)
 
